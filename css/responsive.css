@@ -1,0 +1,36 @@
+
+
+@media only screen and (min-width: 778px) and (max-width: 1067px) {
+
+nav a {
+	margin: 0em 3em 0em 3em;	
+
+  }
+
+}
+
+@media only screen and (min-width: 660px) and (max-width: 777px) {
+
+nav a {
+	margin: 0em 1em 0em 1em;	
+
+  }
+
+}
+
+@media only screen and (max-width: 659px) {
+
+	nav {
+		margin: 0em 1em 0em 1em;
+		width: 100%;
+	}
+
+	nav a {
+		display: block;
+		padding: .5em;
+		margin: 0em;
+	}
+
+
+}	
+
